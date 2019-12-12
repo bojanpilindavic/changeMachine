@@ -1,0 +1,6 @@
+export const RANDOM = 'RANDOM'
+export const CALCULATE = 'CALCULATE'
+export const RESET = 'RESET'
+export const INPUT = 'INPUT'
+export const INPUT_COIN ='INPUT_COIN'
+export const UPDATE_SYSTEM='UPDATE_SYSTEM'
