@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/changeMachine/static/css/main.d75a1143.chunk.css",
+    "main.js": "/changeMachine/static/js/main.72b3d9b9.chunk.js",
+    "main.js.map": "/changeMachine/static/js/main.72b3d9b9.chunk.js.map",
+    "runtime-main.js": "/changeMachine/static/js/runtime-main.6fc95324.js",
+    "runtime-main.js.map": "/changeMachine/static/js/runtime-main.6fc95324.js.map",
+    "static/css/2.b0bb7f2c.chunk.css": "/changeMachine/static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.50dae14f.chunk.js": "/changeMachine/static/js/2.50dae14f.chunk.js",
+    "static/js/2.50dae14f.chunk.js.map": "/changeMachine/static/js/2.50dae14f.chunk.js.map",
+    "index.html": "/changeMachine/index.html",
+    "precache-manifest.a079c7382b8cb76e8710ee4fe60a1762.js": "/changeMachine/precache-manifest.a079c7382b8cb76e8710ee4fe60a1762.js",
+    "service-worker.js": "/changeMachine/service-worker.js",
+    "static/css/2.b0bb7f2c.chunk.css.map": "/changeMachine/static/css/2.b0bb7f2c.chunk.css.map",
+    "static/css/main.d75a1143.chunk.css.map": "/changeMachine/static/css/main.d75a1143.chunk.css.map",
+    "static/media/backround.jpg": "/changeMachine/static/media/backround.8223cc58.jpg",
+    "static/media/App.css": "/changeMachine/static/media/backroundImage.338a71ad.jpeg",
+    "static/media/slide2.png": "/changeMachine/static/media/slide2.3f7e48bc.png",
+    "static/media/slide3.jpg": "/changeMachine/static/media/slide3.9de9abe7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fc95324.js",
+    "static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.50dae14f.chunk.js",
+    "static/css/main.d75a1143.chunk.css",
+    "static/js/main.72b3d9b9.chunk.js"
+  ]
+}
